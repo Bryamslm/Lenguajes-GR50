@@ -2,6 +2,12 @@ package main
 
 import "fmt"
 
+/*
+- Escriba un programa que a partir de una cadena (sea predefinida o leida del usuario), busque mediante
+	iteracviones en dicha cadena, una palabra cualquiera. Debe indicar si se encuentra o no dicha palabra.
+	OBJETIVO: Uso de variables tipo cadena de datos y ciclos.
+*/
+
 func buscar(text string, word string) bool {
 
 	/*
