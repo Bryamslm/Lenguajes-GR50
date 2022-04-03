@@ -79,6 +79,6 @@ func sinSustitucion() {
 }
 
 func main() {
-	//sustitucion()
+	sustitucion()
 	sinSustitucion()
 }
