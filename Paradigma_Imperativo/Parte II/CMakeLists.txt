@@ -4,4 +4,4 @@ project(Parte_II)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(Parte_II
-        ejercicio1.cpp)
+        ejercicio_1.c)
