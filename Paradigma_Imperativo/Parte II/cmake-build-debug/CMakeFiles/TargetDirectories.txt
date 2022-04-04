@@ -1,0 +1,3 @@
+C:/Users/bryam/Desktop/Lenguajes-GR50/Paradigma_Imperativo/Parte II/cmake-build-debug/CMakeFiles/Parte_II.dir
+C:/Users/bryam/Desktop/Lenguajes-GR50/Paradigma_Imperativo/Parte II/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bryam/Desktop/Lenguajes-GR50/Paradigma_Imperativo/Parte II/cmake-build-debug/CMakeFiles/rebuild_cache.dir
