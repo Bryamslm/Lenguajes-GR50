@@ -1,3 +1,0 @@
-largopar([A]).
-largopar([A,T]):- 0 is mod((1+largopar(T)),2).
-
