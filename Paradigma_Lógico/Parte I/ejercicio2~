@@ -1,0 +1,2 @@
+largopar([A]).
+largopar([A,T]):- 0 = (1+largopar(T)) mod 2.
