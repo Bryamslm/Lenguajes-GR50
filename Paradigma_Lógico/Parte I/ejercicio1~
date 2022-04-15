@@ -1,0 +1,2 @@
+sumlist([X], S).%caso base, se recibe un solo elemento
+sumlist([X|T], S):-X+sumlist(T, S)=S.
